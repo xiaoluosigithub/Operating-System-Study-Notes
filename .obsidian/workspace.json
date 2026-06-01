@@ -11,12 +11,10 @@
             "id": "2cfb131a1b246212",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "操作系统/知识文件夹/1.1操作系统的基本概念/pic/Pasted image 20260601150135.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260601150135"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -162,13 +160,23 @@
               "icon": "lucide-list",
               "title": "1.1操作系统的基本概念 的大纲"
             }
+          },
+          {
+            "id": "540b2a1a20b5e04b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,18 +186,39 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8941afe5193e0fef",
+  "active": "2cfb131a1b246212",
   "lastOpenFiles": [
-    "新建 文本文档.txt",
+    "操作系统/知识文件夹/1.2操作系统发展历程/pic/Pasted image 20260601160017.png",
+    "操作系统/习题/1.2操作系统发展历程.md",
+    "操作系统/知识文件夹/1.2操作系统发展历程/pic/Pasted image 20260601160119.png",
+    "操作系统/知识文件夹/1.2操作系统发展历程/pic/Pasted image 20260601160059.png",
+    "操作系统/知识文件夹/1.2操作系统发展历程/pic/Pasted image 20260601160043.png",
+    "操作系统/知识文件夹/1.2操作系统发展历程/pic/Pasted image 20260601160025.png",
+    "操作系统/知识文件夹/1.2操作系统发展历程/pic/Pasted image 20260601155955.png",
+    "操作系统/知识文件夹/1.2操作系统发展历程/pic/Pasted image 20260601155907.png",
+    "操作系统/知识文件夹/1.2操作系统发展历程/单道批处理系统.md",
+    "操作系统/思维导图/1.2操作系统发展历程.canvas",
+    "操作系统/知识文件夹/1.2操作系统发展历程/微机操作系统.md",
+    "操作系统/知识文件夹/1.2操作系统发展历程/网络操作系统和分布式系统.md",
+    "操作系统/知识文件夹/1.2操作系统发展历程/实时操作系统.md",
+    "操作系统/知识文件夹/1.2操作系统发展历程/分时操作系统.md",
+    "操作系统/知识文件夹/1.2操作系统发展历程/多道批处理系统.md",
     "README.md",
+    "LICENSE.md",
+    "操作系统/知识文件夹/1.2操作系统发展历程/批处理阶段（操作系统开始出现）.md",
+    "操作系统/知识文件夹/1.2操作系统发展历程/手工操作阶段（未配置操作系统）.md",
+    "操作系统/知识文件夹/1.2操作系统发展历程/pic",
+    "操作系统/知识文件夹/1.2操作系统发展历程",
+    "操作系统/思维导图/1.1操作系统的基本概念.canvas",
+    "操作系统/知识文件夹/1.1操作系统的基本概念/pic/Pasted image 20260601150135.png",
+    "新建 文本文档.txt",
     "操作系统/习题/1.1操作系统的基本概念.md",
     "操作系统/知识文件夹/1.1操作系统的基本概念/pic/Pasted image 20260601150218.png",
-    "操作系统/知识文件夹/1.1操作系统的基本概念/pic/Pasted image 20260601150135.png",
     "操作系统/知识文件夹/1.1操作系统的基本概念/pic/Pasted image 20260601150120.png",
-    "操作系统/思维导图/1.1操作系统的基本概念.canvas",
     "操作系统/知识文件夹/1.1操作系统的基本概念/操作系统的功能和目标.md",
     "操作系统/知识文件夹/1.1操作系统的基本概念/异步（Asynchronism）.md",
     "操作系统/知识文件夹/1.1操作系统的基本概念/虚拟（Virtual）.md",

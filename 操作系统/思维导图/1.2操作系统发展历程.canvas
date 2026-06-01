@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"900e51a765b0c4ef","type":"file","file":"操作系统/知识文件夹/1.2操作系统发展历程/单道批处理系统.md","x":828,"y":-552,"width":532,"height":400},
+		{"id":"45d851cb0b792528","type":"file","file":"操作系统/知识文件夹/1.2操作系统发展历程/手工操作阶段（未配置操作系统）.md","x":81,"y":-574,"width":599,"height":253},
+		{"id":"e771fd3b1193ab2a","type":"text","text":"# 1.2操作系统发展历程","x":-340,"y":-100,"width":291,"height":72},
+		{"id":"f9fb5bb884852870","type":"file","file":"操作系统/知识文件夹/1.2操作系统发展历程/多道批处理系统.md","x":828,"y":-100,"width":532,"height":530},
+		{"id":"3b0cd9914a01ca13","type":"file","file":"操作系统/知识文件夹/1.2操作系统发展历程/批处理阶段（操作系统开始出现）.md","x":81,"y":-134,"width":599,"height":140},
+		{"id":"c2fed5594247d517","type":"file","file":"操作系统/知识文件夹/1.2操作系统发展历程/分时操作系统.md","x":81,"y":120,"width":599,"height":448},
+		{"id":"12648b443d2f90af","type":"file","file":"操作系统/知识文件夹/1.2操作系统发展历程/实时操作系统.md","x":81,"y":680,"width":599,"height":426},
+		{"id":"3a33d3cb2b268f56","type":"file","file":"操作系统/知识文件夹/1.2操作系统发展历程/微机操作系统.md","x":-1120,"y":-29,"width":594,"height":149},
+		{"id":"2bcb05cb9c04990b","type":"file","file":"操作系统/知识文件夹/1.2操作系统发展历程/网络操作系统和分布式系统.md","x":-1120,"y":-629,"width":594,"height":529}
+	],
+	"edges":[
+		{"id":"efdffa3234f25e46","fromNode":"e771fd3b1193ab2a","fromSide":"right","toNode":"45d851cb0b792528","toSide":"left"},
+		{"id":"d35d32e6c5950e98","fromNode":"e771fd3b1193ab2a","fromSide":"right","toNode":"3b0cd9914a01ca13","toSide":"left"},
+		{"id":"9bcc6768e53d5b37","fromNode":"3b0cd9914a01ca13","fromSide":"right","toNode":"900e51a765b0c4ef","toSide":"left"},
+		{"id":"c4ad74384551ef56","fromNode":"3b0cd9914a01ca13","fromSide":"right","toNode":"f9fb5bb884852870","toSide":"left"},
+		{"id":"0a88c7d66bc10427","fromNode":"e771fd3b1193ab2a","fromSide":"right","toNode":"c2fed5594247d517","toSide":"left"},
+		{"id":"e10e22d38a726344","fromNode":"e771fd3b1193ab2a","fromSide":"right","toNode":"12648b443d2f90af","toSide":"left"},
+		{"id":"db437b66d9f63990","fromNode":"e771fd3b1193ab2a","fromSide":"left","toNode":"2bcb05cb9c04990b","toSide":"right"},
+		{"id":"8ae764029121c9df","fromNode":"e771fd3b1193ab2a","fromSide":"left","toNode":"3a33d3cb2b268f56","toSide":"right"}
+	]
+}

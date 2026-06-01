@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"d81dfd180a35733e","type":"file","file":"操作系统/知识文件夹/1.1操作系统的基本概念/操作系统的概念.md","x":80,"y":-611,"width":640,"height":309},
+		{"id":"8292f4681a32dfe5","type":"text","text":"# 1.1操作系统的基本概念\n","x":-415,"y":-93,"width":255,"height":73},
+		{"id":"f914437750795bc3","type":"file","file":"操作系统/知识文件夹/1.1操作系统的基本概念/操作系统的功能和目标.md","x":80,"y":-196,"width":640,"height":140},
+		{"id":"db4af2685e935fe3","type":"file","file":"操作系统/知识文件夹/1.1操作系统的基本概念/操作系统作为计算机资源的管理者.md","x":920,"y":-829,"width":704,"height":436},
+		{"id":"5b76cc19c8e99e47","type":"file","file":"操作系统/知识文件夹/1.1操作系统的基本概念/操作系统作为用户与计算机硬件系统之间的接口.md","x":920,"y":-306,"width":704,"height":357},
+		{"id":"4dabe1d456c21e06","type":"file","file":"操作系统/知识文件夹/1.1操作系统的基本概念/操作系统实现了对计算机资源的扩充.md","x":920,"y":114,"width":704,"height":140},
+		{"id":"f19aa2ec88597b92","type":"file","file":"操作系统/知识文件夹/1.1操作系统的基本概念/并发（Concurrency）.md","x":920,"y":320,"width":704,"height":310},
+		{"id":"d3ab153c085f12fd","type":"file","file":"操作系统/知识文件夹/1.1操作系统的基本概念/操作系统的特征.md","x":80,"y":630,"width":640,"height":259},
+		{"id":"d61a524bef328fe9","type":"file","file":"操作系统/知识文件夹/1.1操作系统的基本概念/共享（Sharing）.md","x":920,"y":710,"width":704,"height":315},
+		{"id":"e6a555c8e62d2937","type":"file","file":"操作系统/知识文件夹/1.1操作系统的基本概念/虚拟（Virtual）.md","x":920,"y":1120,"width":704,"height":307},
+		{"id":"66529f1369e4d55d","type":"file","file":"操作系统/知识文件夹/1.1操作系统的基本概念/异步（Asynchronism）.md","x":920,"y":1480,"width":704,"height":170}
+	],
+	"edges":[
+		{"id":"4e813e713d4285ed","fromNode":"8292f4681a32dfe5","fromSide":"right","toNode":"d81dfd180a35733e","toSide":"left"},
+		{"id":"ebc7f60eb2499296","fromNode":"8292f4681a32dfe5","fromSide":"right","toNode":"f914437750795bc3","toSide":"left"},
+		{"id":"bcd8de091e76e74b","fromNode":"f914437750795bc3","fromSide":"right","toNode":"db4af2685e935fe3","toSide":"left"},
+		{"id":"874790861473cf6f","fromNode":"f914437750795bc3","fromSide":"right","toNode":"5b76cc19c8e99e47","toSide":"left"},
+		{"id":"2f9aeebc71bef3e7","fromNode":"f914437750795bc3","fromSide":"right","toNode":"4dabe1d456c21e06","toSide":"left"},
+		{"id":"0a6a5bd9fe943b3a","fromNode":"8292f4681a32dfe5","fromSide":"right","toNode":"d3ab153c085f12fd","toSide":"left"},
+		{"id":"06b2b284bd56ddb2","fromNode":"d3ab153c085f12fd","fromSide":"right","toNode":"f19aa2ec88597b92","toSide":"left"},
+		{"id":"6c8d711feed250a3","fromNode":"d3ab153c085f12fd","fromSide":"right","toNode":"d61a524bef328fe9","toSide":"left"},
+		{"id":"bb325a48fa4538df","fromNode":"d3ab153c085f12fd","fromSide":"right","toNode":"e6a555c8e62d2937","toSide":"left"},
+		{"id":"193769ea06396116","fromNode":"d3ab153c085f12fd","fromSide":"right","toNode":"66529f1369e4d55d","toSide":"left"}
+	]
+}

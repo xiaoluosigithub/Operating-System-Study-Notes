@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "5464b93619adb9d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e137f028214a951",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cfb131a1b246212",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "操作系统/知识文件夹/1.1操作系统的基本概念/pic/Pasted image 20260601150135.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260601150135"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d77d963721ee5714",
+    "type": "split",
+    "children": [
+      {
+        "id": "4daea0593edadbc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8941afe5193e0fef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "3f12d5cb5fba9a66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b5e824dad44a9d5f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6a5f02aaa75744ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "eaedd21c76ade3c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30e54f10c82deb22",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "操作系统/思维导图/1.1操作系统的基本概念.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "1.1操作系统的基本概念 的反向链接列表"
+            }
+          },
+          {
+            "id": "4b3304abbf319bb6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "操作系统/思维导图/1.1操作系统的基本概念.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "1.1操作系统的基本概念 的出链列表"
+            }
+          },
+          {
+            "id": "c2b2f6f0dd157504",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "e59695b6e48954b2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "9731e7129678b402",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "操作系统/思维导图/1.1操作系统的基本概念.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "1.1操作系统的基本概念 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "8941afe5193e0fef",
+  "lastOpenFiles": [
+    "新建 文本文档.txt",
+    "README.md",
+    "操作系统/习题/1.1操作系统的基本概念.md",
+    "操作系统/知识文件夹/1.1操作系统的基本概念/pic/Pasted image 20260601150218.png",
+    "操作系统/知识文件夹/1.1操作系统的基本概念/pic/Pasted image 20260601150135.png",
+    "操作系统/知识文件夹/1.1操作系统的基本概念/pic/Pasted image 20260601150120.png",
+    "操作系统/思维导图/1.1操作系统的基本概念.canvas",
+    "操作系统/知识文件夹/1.1操作系统的基本概念/操作系统的功能和目标.md",
+    "操作系统/知识文件夹/1.1操作系统的基本概念/异步（Asynchronism）.md",
+    "操作系统/知识文件夹/1.1操作系统的基本概念/虚拟（Virtual）.md",
+    "操作系统/知识文件夹/1.1操作系统的基本概念/共享（Sharing）.md",
+    "操作系统/知识文件夹/1.1操作系统的基本概念/并发（Concurrency）.md",
+    "操作系统/知识文件夹/1.1操作系统的基本概念/操作系统的特征.md",
+    "操作系统/知识文件夹/1.1操作系统的基本概念/操作系统实现了对计算机资源的扩充.md",
+    "操作系统/知识文件夹/1.1操作系统的基本概念/操作系统作为用户与计算机硬件系统之间的接口.md",
+    "操作系统/知识文件夹/1.1操作系统的基本概念/操作系统作为计算机资源的管理者.md",
+    "操作系统/知识文件夹/1.1操作系统的基本概念/操作系统的概念.md",
+    "欢迎.md",
+    "操作系统/知识文件夹/1.1操作系统的基本概念/pic",
+    "操作系统/知识文件夹/1.1操作系统的基本概念",
+    "操作系统/知识文件夹",
+    "操作系统/习题",
+    "操作系统/思维导图",
+    "操作系统"
+  ]
+}

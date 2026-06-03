@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"61a796c7be0d1f77","type":"file","file":"操作系统/知识文件夹/1.5-1.6操作系统引导&虚拟机/操作系统的引导.md","x":-420,"y":-207,"width":680,"height":566},
+		{"id":"a7621a8f52c6c722","type":"file","file":"操作系统/知识文件夹/1.5-1.6操作系统引导&虚拟机/pic/Pasted image 20260603211535.png","x":-420,"y":-640,"width":680,"height":376},
+		{"id":"85048502ea2d60da","type":"file","file":"操作系统/知识文件夹/1.5-1.6操作系统引导&虚拟机/pic/Pasted image 20260603214137.png","x":320,"y":-133,"width":828,"height":492},
+		{"id":"addbb9768e6262bf","type":"file","file":"操作系统/知识文件夹/1.5-1.6操作系统引导&虚拟机/pic/Pasted image 20260603214111.png","x":1158,"y":79,"width":828,"height":280},
+		{"id":"e0640879f9602569","type":"text","text":"# 1.6虚拟机\n虚拟机是指通过虚拟化技术，将一台物理计算机抽象为多台逻辑上独立的计算环境，每台虚拟机都表现为完整硬件系统的精确复制品。\n虚拟化技术的核心在于隐藏底层物理硬件的细节，向上层提供统一且隔离的执行平台。","x":484,"y":-447,"width":500,"height":201},
+		{"id":"3f2835e4311cf488","type":"file","file":"操作系统/知识文件夹/1.5-1.6操作系统引导&虚拟机/第一类虚拟机.md","x":1241,"y":-617,"width":662,"height":331},
+		{"id":"f6623a32cea62d4b","type":"file","file":"操作系统/知识文件夹/1.5-1.6操作系统引导&虚拟机/第二类虚拟机管理程序.md","x":1241,"y":-207,"width":662,"height":160},
+		{"id":"25e5d985c0b31c94","type":"text","text":"# 1.5操作系统引导","x":-800,"y":-267,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"99e54822b52e47c4","fromNode":"25e5d985c0b31c94","fromSide":"right","toNode":"61a796c7be0d1f77","toSide":"left"},
+		{"id":"9ef6ed46da267135","fromNode":"25e5d985c0b31c94","fromSide":"right","toNode":"a7621a8f52c6c722","toSide":"left"},
+		{"id":"e6334a4f609cc10b","fromNode":"e0640879f9602569","fromSide":"right","toNode":"3f2835e4311cf488","toSide":"left"},
+		{"id":"d5fb0d2c19270022","fromNode":"e0640879f9602569","fromSide":"right","toNode":"f6623a32cea62d4b","toSide":"left"}
+	]
+}

@@ -8,7 +8,7 @@
 		{"id":"797eb1b5c8e5bc80","type":"file","file":"操作系统/知识文件夹/1.4操作系统结构/分层法.md","x":-328,"y":-873,"width":648,"height":181},
 		{"id":"1a295ddd636fd314","type":"file","file":"操作系统/知识文件夹/1.4操作系统结构/模块化.md","x":-328,"y":-587,"width":648,"height":543},
 		{"id":"aa5eefe70b78c9b8","type":"file","file":"操作系统/知识文件夹/1.4操作系统结构/外核.md","x":-1520,"y":160,"width":721,"height":438},
-		{"id":"2a2ff3a71e525653","x":-720,"y":-20,"width":1040,"height":583,"type":"file","file":"操作系统/知识文件夹/1.4操作系统结构/pic/Pasted image 20260603212945.png"}
+		{"id":"2a2ff3a71e525653","type":"file","file":"操作系统/知识文件夹/1.4操作系统结构/pic/Pasted image 20260603212945.png","x":-720,"y":-20,"width":1039,"height":583}
 	],
 	"edges":[
 		{"id":"d559e66f65d03393","fromNode":"7c06c55c6192eb6e","fromSide":"right","toNode":"797eb1b5c8e5bc80","toSide":"left"},

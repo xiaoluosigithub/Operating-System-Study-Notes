@@ -1,19 +1,25 @@
 {
 	"nodes":[
-		{"id":"f43d0804dcd7e17c","type":"file","file":"操作系统/知识文件夹/2.1进程与线程/进程的概念.md","x":96,"y":-612,"width":624,"height":392},
-		{"id":"c64017875c2e4f16","type":"text","text":"# 2.1.1进程的概念和特征","x":-400,"y":-220,"width":320,"height":36},
-		{"id":"12686b6fe2e3d106","type":"file","file":"操作系统/知识文件夹/2.1进程与线程/进程的特征.md","x":96,"y":-140,"width":624,"height":208},
-		{"id":"d0f09aaa43789242","type":"file","file":"操作系统/知识文件夹/2.1进程与线程/进程控制块.md","x":96,"y":120,"width":624,"height":400},
-		{"id":"9164aa5638dba8f3","type":"file","file":"操作系统/知识文件夹/2.1进程与线程/PCB包含信息.md","x":900,"y":-380,"width":713,"height":631},
-		{"id":"c5827fbfde1753b7","type":"file","file":"操作系统/知识文件夹/2.1进程与线程/PCB组织方式.md","x":900,"y":356,"width":713,"height":224},
-		{"id":"ac1a2ccf929ae505","type":"file","file":"操作系统/知识文件夹/2.1进程与线程/程序段.md","x":96,"y":580,"width":624,"height":120},
-		{"id":"905c35a1924d4b5f","type":"file","file":"操作系统/知识文件夹/2.1进程与线程/数据段.md","x":96,"y":740,"width":624,"height":170},
-		{"id":"732584494280df04","type":"text","text":"# 2.1.2进程的组成\n","x":-360,"y":484,"width":250,"height":36},
-		{"id":"3c6e808bd845e32a","type":"text","text":"# 2.1.3进程的内存映像","x":1680,"y":-405,"width":319,"height":50},
-		{"id":"8b56042d9dadd5b6","type":"file","file":"操作系统/知识文件夹/2.1进程与线程/进程的内存映像.md","x":2164,"y":-877,"width":636,"height":198},
-		{"id":"cedbbca1cfe2252b","type":"file","file":"进程的虚拟地址空间组成.md","x":2164,"y":-656,"width":636,"height":1166},
-		{"id":"987c22a3d293bc7e","type":"text","text":"# 2.1.4 进程的状态与转换","x":1680,"y":620,"width":320,"height":50},
-		{"id":"d9b93948f309eeef","type":"file","file":"进程的状态与转换.md","x":2164,"y":580,"width":636,"height":585}
+		{"id":"8b56042d9dadd5b6","type":"file","file":"操作系统/知识文件夹/2.1进程与线程/进程的内存映像.md","x":-1596,"y":-988,"width":636,"height":198},
+		{"id":"cedbbca1cfe2252b","type":"file","file":"操作系统/知识文件夹/2.1进程与线程/进程的虚拟地址空间组成.md","x":-1880,"y":-767,"width":920,"height":687},
+		{"id":"3c6e808bd845e32a","type":"text","text":"# 2.1.3进程的内存映像","x":-719,"y":-480,"width":319,"height":50},
+		{"id":"ba07cbdacd2f8183","type":"file","file":"操作系统/知识文件夹/2.1进程与线程/pic/Pasted image 20260607190451.png","x":-2760,"y":-700,"width":760,"height":540},
+		{"id":"d9b93948f309eeef","type":"file","file":"操作系统/知识文件夹/2.1进程与线程/进程的状态与转换.md","x":-1596,"y":-5,"width":636,"height":585},
+		{"id":"987c22a3d293bc7e","type":"text","text":"# 2.1.4 进程的状态与转换","x":-720,"y":176,"width":320,"height":50},
+		{"id":"8c1587a2e18e33d9","type":"file","file":"操作系统/知识文件夹/2.1进程与线程/引起进程状态转换的事件.md","x":-2380,"y":44,"width":640,"height":488},
+		{"id":"c64017875c2e4f16","type":"text","text":"# 2.1.1进程的概念和特征","x":-520,"y":-819,"width":320,"height":36},
+		{"id":"732584494280df04","type":"text","text":"# 2.1.2进程的组成\n","x":-480,"y":-115,"width":250,"height":36},
+		{"id":"f43d0804dcd7e17c","type":"file","file":"操作系统/知识文件夹/2.1进程与线程/进程的概念.md","x":-24,"y":-1211,"width":624,"height":392},
+		{"id":"12686b6fe2e3d106","type":"file","file":"操作系统/知识文件夹/2.1进程与线程/进程的特征.md","x":-24,"y":-739,"width":624,"height":208},
+		{"id":"905c35a1924d4b5f","type":"file","file":"操作系统/知识文件夹/2.1进程与线程/数据段.md","x":-24,"y":141,"width":624,"height":170},
+		{"id":"9164aa5638dba8f3","type":"file","file":"操作系统/知识文件夹/2.1进程与线程/PCB包含信息.md","x":780,"y":-979,"width":713,"height":631},
+		{"id":"d0f09aaa43789242","type":"file","file":"操作系统/知识文件夹/2.1进程与线程/进程控制块.md","x":-24,"y":-479,"width":624,"height":400},
+		{"id":"c5827fbfde1753b7","type":"file","file":"操作系统/知识文件夹/2.1进程与线程/PCB组织方式.md","x":780,"y":-243,"width":713,"height":224},
+		{"id":"ac1a2ccf929ae505","type":"file","file":"操作系统/知识文件夹/2.1进程与线程/程序段.md","x":-24,"y":-19,"width":624,"height":120},
+		{"id":"4353b43227e703f8","type":"text","text":"# 2.1.5 进程控制\n","x":-650,"y":840,"width":250,"height":60},
+		{"id":"821df28652656a7c","type":"file","file":"操作系统/知识文件夹/2.1进程与线程/进程控制.md","x":-1220,"y":771,"width":440,"height":198},
+		{"id":"9c2d9e2d1133d8b3","type":"file","file":"操作系统/知识文件夹/2.1进程与线程/进程的创建.md","x":-2060,"y":620,"width":680,"height":416},
+		{"id":"a5f75ccee9691d57","type":"file","file":"操作系统/知识文件夹/2.1进程与线程/进程的终止.md","x":-2060,"y":1100,"width":680,"height":400}
 	],
 	"edges":[
 		{"id":"fe5d679c4d0035ef","fromNode":"c64017875c2e4f16","fromSide":"right","toNode":"f43d0804dcd7e17c","toSide":"left"},
@@ -23,8 +29,13 @@
 		{"id":"c4d91ea503f27f6d","fromNode":"d0f09aaa43789242","fromSide":"right","toNode":"c5827fbfde1753b7","toSide":"left"},
 		{"id":"eb120f8ed41c1922","fromNode":"732584494280df04","fromSide":"right","toNode":"ac1a2ccf929ae505","toSide":"left"},
 		{"id":"a130e692f5c2e636","fromNode":"732584494280df04","fromSide":"right","toNode":"905c35a1924d4b5f","toSide":"left"},
-		{"id":"903f775b5f12809a","fromNode":"3c6e808bd845e32a","fromSide":"right","toNode":"8b56042d9dadd5b6","toSide":"left"},
-		{"id":"4803ca4aa0af0aea","fromNode":"3c6e808bd845e32a","fromSide":"right","toNode":"cedbbca1cfe2252b","toSide":"left"},
-		{"id":"88abcd0739a50ccb","fromNode":"987c22a3d293bc7e","fromSide":"right","toNode":"d9b93948f309eeef","toSide":"left"}
+		{"id":"d50c54abf644ff0f","fromNode":"3c6e808bd845e32a","fromSide":"left","toNode":"8b56042d9dadd5b6","toSide":"right"},
+		{"id":"95b02bab434ce3b1","fromNode":"3c6e808bd845e32a","fromSide":"left","toNode":"cedbbca1cfe2252b","toSide":"right"},
+		{"id":"0b27043012cf146f","fromNode":"987c22a3d293bc7e","fromSide":"left","toNode":"d9b93948f309eeef","toSide":"right"},
+		{"id":"a52d3f67cff2aa7b","fromNode":"cedbbca1cfe2252b","fromSide":"left","toNode":"ba07cbdacd2f8183","toSide":"right"},
+		{"id":"94da4aceeeefb2dc","fromNode":"d9b93948f309eeef","fromSide":"left","toNode":"8c1587a2e18e33d9","toSide":"right"},
+		{"id":"d7734bbe90928d77","fromNode":"4353b43227e703f8","fromSide":"left","toNode":"821df28652656a7c","toSide":"right"},
+		{"id":"55a803881c54da79","fromNode":"821df28652656a7c","fromSide":"left","toNode":"9c2d9e2d1133d8b3","toSide":"right"},
+		{"id":"0979a3ccc9b80626","fromNode":"821df28652656a7c","fromSide":"left","toNode":"a5f75ccee9691d57","toSide":"right"}
 	]
 }

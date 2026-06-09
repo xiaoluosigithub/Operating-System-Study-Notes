@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"aca26c477ed5ce23","type":"file","file":"操作系统/知识文件夹/2.2CPU调度/2.2.4 进程的切换.md","x":-760,"y":-480,"width":500,"height":263},
+		{"id":"dab632ea9cd8f056","type":"file","file":"操作系统/知识文件夹/2.2CPU调度/2.2.5 CPU调度算法.md","x":-760,"y":-149,"width":500,"height":269},
+		{"id":"bb03a9c2909f099a","type":"file","file":"操作系统/知识文件夹/2.2CPU调度/2.2.6 多处理机调度.md","x":-760,"y":160,"width":500,"height":400},
+		{"id":"f25dd240a17b64ad","type":"file","file":"操作系统/知识文件夹/2.2CPU调度/2.2.3 调度的目标.md","x":280,"y":161,"width":533,"height":400},
+		{"id":"2a24095b7c72d1f3","type":"text","text":"# 2.2CPU调度","x":-80,"y":-44,"width":205,"height":60},
+		{"id":"cd677faa61ec23e9","type":"file","file":"操作系统/知识文件夹/2.2CPU调度/高级调度（作业调度）.md","x":920,"y":-961,"width":522,"height":275},
+		{"id":"807423de9982075c","type":"file","file":"操作系统/知识文件夹/2.2CPU调度/低级调度（进程调度）.md","x":920,"y":-386,"width":522,"height":152},
+		{"id":"5808fdb1f832df3a","type":"file","file":"操作系统/知识文件夹/2.2CPU调度/2.2.1 调度的概念.md","x":280,"y":-900,"width":533,"height":590},
+		{"id":"308e2a6c7d4ee2a7","type":"file","file":"操作系统/知识文件夹/2.2CPU调度/pic/Pasted image 20260609204642.png","x":1560,"y":-722,"width":400,"height":234},
+		{"id":"34246265853160d1","type":"file","file":"操作系统/知识文件夹/2.2CPU调度/中级调度（内存调度）.md","x":920,"y":-640,"width":522,"height":208},
+		{"id":"3dec581e9e5bf359","type":"file","file":"操作系统/知识文件夹/2.2CPU调度/进程调度的任务.md","x":920,"y":-188,"width":522,"height":309},
+		{"id":"75bd6fcbdcfbce50","type":"file","file":"操作系统/知识文件夹/2.2CPU调度/2.2.2 进程调度.md","x":280,"y":-168,"width":533,"height":269},
+		{"id":"4a08012704d7e289","type":"file","file":"操作系统/知识文件夹/2.2CPU调度/调度程序（调度器）.md","x":920,"y":161,"width":780,"height":561},
+		{"id":"65e5b8600ce14001","type":"file","file":"操作系统/知识文件夹/2.2CPU调度/调度的实际、切换与过程.md","x":920,"y":800,"width":780,"height":702}
+	],
+	"edges":[
+		{"id":"3af710331df6de02","fromNode":"2a24095b7c72d1f3","fromSide":"right","toNode":"5808fdb1f832df3a","toSide":"left"},
+		{"id":"e2274cb02e947050","fromNode":"2a24095b7c72d1f3","fromSide":"right","toNode":"75bd6fcbdcfbce50","toSide":"left"},
+		{"id":"4a812d788ad6ebc6","fromNode":"2a24095b7c72d1f3","fromSide":"right","toNode":"f25dd240a17b64ad","toSide":"left"},
+		{"id":"6208b7661cba9938","fromNode":"2a24095b7c72d1f3","fromSide":"left","toNode":"aca26c477ed5ce23","toSide":"right"},
+		{"id":"b8683b33f9c0399f","fromNode":"2a24095b7c72d1f3","fromSide":"left","toNode":"dab632ea9cd8f056","toSide":"right"},
+		{"id":"ef43f8a02aa1a766","fromNode":"2a24095b7c72d1f3","fromSide":"left","toNode":"bb03a9c2909f099a","toSide":"right"},
+		{"id":"83948a70031722f9","fromNode":"5808fdb1f832df3a","fromSide":"right","toNode":"cd677faa61ec23e9","toSide":"left"},
+		{"id":"a238f526b6326384","fromNode":"cd677faa61ec23e9","fromSide":"right","toNode":"308e2a6c7d4ee2a7","toSide":"left"},
+		{"id":"d4ab75a59ae23526","fromNode":"5808fdb1f832df3a","fromSide":"right","toNode":"34246265853160d1","toSide":"left"},
+		{"id":"a96d9e8be07d646d","fromNode":"34246265853160d1","fromSide":"right","toNode":"308e2a6c7d4ee2a7","toSide":"left"},
+		{"id":"9117ec8e4604b322","fromNode":"5808fdb1f832df3a","fromSide":"right","toNode":"807423de9982075c","toSide":"left"},
+		{"id":"72bec5df7758df8a","fromNode":"807423de9982075c","fromSide":"right","toNode":"308e2a6c7d4ee2a7","toSide":"left"},
+		{"id":"05e53699319bbad2","fromNode":"75bd6fcbdcfbce50","fromSide":"right","toNode":"3dec581e9e5bf359","toSide":"left"},
+		{"id":"21f9eea401a8ef58","fromNode":"75bd6fcbdcfbce50","fromSide":"right","toNode":"4a08012704d7e289","toSide":"left"},
+		{"id":"ec736f32cafaf674","fromNode":"75bd6fcbdcfbce50","fromSide":"right","toNode":"65e5b8600ce14001","toSide":"left"}
+	]
+}
